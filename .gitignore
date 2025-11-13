@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# Processed data
+data/processed/
+
+# macOS metadata
+.DS_Store
+
